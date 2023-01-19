@@ -8,7 +8,7 @@ To put it short, we're developers of a multiplayer sci-fi sandbox simulation vid
 
 To put it a bit longer, 'Goonstation' is the longest running [Space Station 13 (SS13)](https://spacestation13.com/) community established way back in 2008.
 Built on top of the original source code, all forks are derived from our codebase. 
-The general SS13 community has a [large presence on GitHub](https://github.com/topics/ss13), being one of the largest open-source video game projects existing.
+The general SS13 community has a [large presence on GitHub](https://github.com/topics/ss13), being the largest open-source video game project.
 
 To get involved and contribute, check out our community below.
 
